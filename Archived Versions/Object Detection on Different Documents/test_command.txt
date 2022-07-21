@@ -1,0 +1,1 @@
+python detect.py --source 'C:\Users\tejas\anaconda3\envs\document_detection_app\test_files\images' --weights 'C:\Users\tejas\anaconda3\envs\document_detection_app\Weights\last.pt' --img 416 --save-txt --save-conf
