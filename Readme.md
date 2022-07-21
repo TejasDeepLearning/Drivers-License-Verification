@@ -29,5 +29,4 @@ I do plan to improve upon this project in the future some ideas I have in mind a
 I also want to gather a large labelled dataset for training, but this would require me manually labelling every image which takes time, and since there are no readily available, cleaned, and processed datasets around for this, it's going to be hard.
 
 # Credits
-PaddleOCR
-ImageAi
+PaddleOCR, ImageAi
