@@ -21,7 +21,7 @@ A couple of things to note are:
 For text extraction, I used [PaddleOCR](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjJ2cSM-oj5AhXMHbcAHf6YAw4QFnoECAUQAQ&url=https%3A%2F%2Fpypi.org%2Fproject%2Fpaddleocr%2F&usg=AOvVaw0W5IIWKVagVGyqU2KvLfSN) a library that I chose above Tesseract and EasyOCR due to its ease of use and no preprocessing required.
 
 # Archived Releases
-Provided here is the [link](https://github.com/Tj-dev-py/Drivers-License-Verification/tree/main/Archived%20Versions) to all of the archived versions of the project, which didn't meet the mark.
+Provided here is the link to all of the [archived versions](https://github.com/Tj-dev-py/Drivers-License-Verification/tree/main/Archived%20Versions) of the project, which didn't meet the mark.
 
 # Roadmap
 I do plan to improve upon this project in the future some ideas I have in mind are finding ways to combine Object Detection and OCR in a single script, because as of right now with all the dependency conflicts, I can't place it all in one single environment to work with. 
