@@ -3,7 +3,6 @@ The aim of this project was to create a way to identify the features of a Driver
 The dataset I gathered contained `9000` images of drivers licenses from which I sampled out `500`, with a `90%/10%` split for training and validation.
 I've placed the latest version of the project on this page while moving the previous iterations into an **Archived Releases directory** for perusal.
 
-![Imgur](https://i.imgur.com/MMej47ml.jpg)
 
 ## Table of Contents
 - [How to use](#how-to-use)
